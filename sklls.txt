@@ -1,1 +1,2 @@
 SQL,Python,bash,gihub,postman,fidler and ather
+Все что получится изучить xD
